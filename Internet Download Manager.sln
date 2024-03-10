@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internet Download Manager", "Internet Download Manager.csproj", "{DAB480BA-84BA-4D82-9614-C055380F60CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB480BA-84BA-4D82-9614-C055380F60CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB480BA-84BA-4D82-9614-C055380F60CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB480BA-84BA-4D82-9614-C055380F60CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB480BA-84BA-4D82-9614-C055380F60CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D38A3111-4220-4438-81AF-E8C16BB197F0}
+	EndGlobalSection
+EndGlobal
