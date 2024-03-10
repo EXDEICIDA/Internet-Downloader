@@ -1,7 +1,13 @@
 # Internet-Downloader
 
-Internet Downloader/WindowsForms/BunifuFramework/SQLite/SQL
+## Technology Stack
 
+- **C# / Visual Studio**: Programming language and development environment used for building the application.
+- **WinForms**: Windows Forms (WinForms) is the graphical application programming interface (API) included as a part of Microsoft's .NET Framework.
+- **Bunifu Framework**: Bunifu Framework is a popular UI toolkit for C# and VB.NET developers, providing modern, flexible, and beautiful user interfaces.
+- **SQLite**: SQLite is a lightweight, self-contained SQL database engine used for storing and managing download information.
+- **SQL**: SQL (Structured Query Language) is used for querying and manipulating data stored in the SQLite database.
+ 
 ## Overview
 
 This application is a versatile internet downloader designed to simplify the process of downloading files from the internet. Leveraging Windows Forms, Bunifu Framework, SQLite, and SQL technologies, this downloader provides a seamless user experience with a beautiful graphical user interface (GUI).
