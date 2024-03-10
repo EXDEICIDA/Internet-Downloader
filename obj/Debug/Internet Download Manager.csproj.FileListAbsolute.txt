@@ -1,0 +1,34 @@
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.exe.config
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.exe
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.pdb
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Internet Download Manager.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.frmMain.resources
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Internet Download Manager.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Internet Download Manager.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Internet.61137AC9.Up2Date
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.exe
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.pdb
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\EntityFramework.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\System.Data.SQLite.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\EntityFramework.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\System.Data.SQLite.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.SettingsForm.resources
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.exe.manifest
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.application
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.exe.manifest
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.application

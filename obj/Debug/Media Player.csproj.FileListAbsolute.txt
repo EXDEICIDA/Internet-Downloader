@@ -1,0 +1,20 @@
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.exe.config
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.exe
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\TestBunifu.pdb
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.Core.dll
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Media Player.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.Form1.resources
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Media Player.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\Media Pl.6759EB6C.Up2Date
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.exe
+C:\Users\DEICIDA\source\repos\TestBunifu\obj\Debug\TestBunifu.pdb
